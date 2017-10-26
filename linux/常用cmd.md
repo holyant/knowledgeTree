@@ -66,8 +66,8 @@
 curl www.baidu.com
 
 ###用户新建
->1. sudo useradd -d /home/liyuxin -m  -s /bin/bash liyuxin
-2. sudo passwd  liyuxin
+>1. sudo useradd -d /home/lixuan -m  -s /bin/bash lixuan
+2. sudo passwd  lixuan
 3. sudo vim /etc/sudoers
 
 ###vim下忽略大小写查找
