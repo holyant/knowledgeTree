@@ -1,0 +1,6 @@
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/entity/MyUser.java
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/service/UserService.java
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/dao/MyUserMapper.java
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/service/impl/UserServiceImpl.java
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/framework/dao/BaseMapper.java
+/Users/holyant/GitHub/stack/java/spring+hibernate+springmvc/SpringMybatis/src/main/java/com/holyant/controller/MainController.java
